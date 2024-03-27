@@ -1,0 +1,8 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore any file with a .wtns extension in all subdirectories
+**/*.wtns
+
+# Ignore any file called input.json
+input.json
